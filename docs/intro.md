@@ -40,6 +40,7 @@ Bem-vindo à nossa loja de peças automotivas! Aqui você encontrará uma varied
 ### Pneus
 
 - **Pneus Variados:** Pneus de todo o tipo de modelos e tamanhos para promover uma condução mais segura.
+- **Jantes** Jantes para todos os gostos para deixar o seu carro seguro e bonito.
 
 ## Como Comprar
 
