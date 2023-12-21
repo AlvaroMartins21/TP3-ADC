@@ -4,12 +4,12 @@
 
 ### Manutenção e Reparos
 - **Revisão Geral:** Garanta o bom funcionamento do seu veículo com nossa revisão completa.
-- **Troca de Óleo:** Utilizamos os melhores óleos e filtros para manter seu motor saudável.
+- **Troca de Óleo:** Utilizamos os melhores óleos e filtros para manter o seu motor saudável.
 - **Reparos Mecânicos:** Profissionais especializados para resolver qualquer problema mecânico.
 - **Diagnóstico Eletrônico:** Equipamentos modernos para identificar falhas no sistema eletrônico.
 
 ### Estética Automotiva
-- **Lavagem Detalhada:** Deixe seu carro brilhando com nossa lavagem completa.
+- **Lavagem Detalhada:** Deixe o seu carro a brilhar com nossa lavagem completa.
 - **Polimento e Cristalização:** Recupere o brilho e proteja a pintura do seu veículo.
 - **Higienização Interna:** Remoção de odores e limpeza profunda dos estofados.
 
@@ -21,5 +21,5 @@ Para agendar um serviço ou obter mais informações, entre em contato conosco:
 - **E-mail:** oficinaarealauto@gmail.com
 - **Endereço:** Rua Dona Teresa Ramalho Ortigão, 8000-544 Faro, Portugal
 
-Estamos à disposição para cuidar do seu veículo com excelência!
+Estamos à sua disposição para cuidar do seu veículo com o maior cuidado!
 Os seus problemas são a nossa felicidade!
