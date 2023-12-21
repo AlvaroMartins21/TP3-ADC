@@ -75,8 +75,20 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Veículos',
+            label: 'Oficina',
           },
+
+         
+          
+
+            
+          { to: '/veiculos', label: 'Veículos', position: 'left'},
+          {href: 'https://alvaromartins21.github.io/TP3-ADC/veiculos/',
+            label: 'GitHub',
+            position: 'right',
+          },
+
+
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
