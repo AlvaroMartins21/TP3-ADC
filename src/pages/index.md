@@ -23,5 +23,3 @@ Para agendar um serviço ou obter mais informações, entre em contato conosco:
 
 Estamos à disposição para cuidar do seu veículo com excelência!
 Os seus problemas são a nossa felicidade!
-
-![Oficina ArealAuto](link_da_imagem.jpg)
