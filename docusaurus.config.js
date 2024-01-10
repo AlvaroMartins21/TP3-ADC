@@ -131,7 +131,7 @@ const config = {
             items: [
               {
                 label: 'Veículos',
-                to: '/src/pages/veículos',
+                to: '/src/pages/veiculos',
               },
               {
                 label: 'GitHub',
