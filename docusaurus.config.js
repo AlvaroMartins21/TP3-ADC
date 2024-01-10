@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ArealAuto',
   tagline: 'Os seus problemas são a nossa felicidade',
-  favicon: 'Auto Areal.png',
+  favicon: 'Auto-Areal.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
