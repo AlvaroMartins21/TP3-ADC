@@ -104,20 +104,20 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Oficina',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidade',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Instagram',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'Facebook',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
@@ -127,11 +127,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Veículos',
+                to: '/veículos',
               },
               {
                 label: 'GitHub',
