@@ -14,8 +14,7 @@ Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disp
 
 ## SUV
 
-![SUV](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turbo.pt%2Ftoyota-ft-ac-um-suv-aventureiro-los-angeles%2F&psig=AOvVaw0A1-8lJWP_7nvFXZwEMVWY&ust=1703259821683000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICjnrfvoIMDFQAAAAAdAAAAABAP)
-
+![SUV](https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=642067e5-591f-4a81-a196-920fb3f86ebd)
 - **Modelo:** SUV 
 - **Marca:** 
 - **Preço:** 17.400€
