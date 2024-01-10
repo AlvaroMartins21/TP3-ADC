@@ -2,12 +2,12 @@
 
 Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disponíveis, juntamente com seus preços.
 
-## Carro Sedan
+## Elegance
 
-![Carro Sedan](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAQH6AsgvEv-f-vhex8xO40fAwGLCH_NJWYQEjtcI7Q&s)
+![Carro Sedan](https://images.noticiasautomotivas.com.br/img/f/audi-a3-sedan-2021-1.jpg)
 
 - **Modelo:** Elegance
-- **Marca:** Sedan
+- **Marca:** AUDI 
 - **Preço:** 2.500€
 
 ---
