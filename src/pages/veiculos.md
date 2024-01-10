@@ -28,7 +28,7 @@ Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disp
 
 - **Modelo:** RAM
 - **Marca:** Dodge
-- **Preço:** R$ 40.000€
+- **Preço:** 40.000€
 
 ---
 
@@ -38,7 +38,7 @@ Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disp
 
 - **Modelo:** Desportivo
 - **Marca:** Corvette
-- **Preço:** R$ 150.000,00
+- **Preço:** 150.000,00€
 
 ---
 
