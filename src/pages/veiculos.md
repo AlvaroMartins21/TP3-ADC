@@ -2,20 +2,19 @@
 
 Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disponíveis, juntamente com seus preços.
 
-## Carro Sedan
+## Elegance
 
-![Carro Sedan](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEAQH6AsgvEv-f-vhex8xO40fAwGLCH_NJWYQEjtcI7Q&s)
+![Carro Sedan](https://images.noticiasautomotivas.com.br/img/f/audi-a3-sedan-2021-1.jpg)
 
 - **Modelo:** Elegance
-- **Marca:** Sedan
+- **Marca:** AUDI 
 - **Preço:** 2.500€
 
 ---
 
 ## SUV
 
-![SUV](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turbo.pt%2Ftoyota-ft-ac-um-suv-aventureiro-los-angeles%2F&psig=AOvVaw0A1-8lJWP_7nvFXZwEMVWY&ust=1703259821683000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICjnrfvoIMDFQAAAAAdAAAAABAP)
-
+![SUV](https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=642067e5-591f-4a81-a196-920fb3f86ebd)
 - **Modelo:** SUV 
 - **Marca:** 
 - **Preço:** 17.400€
