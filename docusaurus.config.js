@@ -68,7 +68,7 @@ const config = {
         title: 'Home',
         logo: {
           alt: 'My Site Logo',
-          src: 'Auto-Areal.ico',
+          src: 'Auto-Areal.png',
         },
         items: [
           {
