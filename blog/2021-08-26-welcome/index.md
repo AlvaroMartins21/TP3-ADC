@@ -36,6 +36,6 @@ Siga-nos nas redes sociais para ficar atualizado sobre as últimas novidades e d
 
 ## ArealAuto - Sua Oficina de Confiança
 
-![ArealAuto](\TP3-ADC\static\img\ArealAuto.jpg)
+![ArealAuto](https://lh5.googleusercontent.com/p/AF1QipOAcJvJKg6gbNai5nklssS0noEV1d_qW1ugQhku=w650-h486-k-no)
 
 Agradecemos por escolher a ArealAuto para suas necessidades automotivas. Esperamos vê-lo em breve!
