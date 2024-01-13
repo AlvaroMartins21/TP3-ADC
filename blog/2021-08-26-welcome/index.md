@@ -8,7 +8,7 @@ Bem-vindo à ArealAuto, a oficina que se preocupa em oferecer serviços de alta 
 
 ### Tiago Silvestre
 
-Tiago Silvestre é um entusiasta automotivo com uma vasta experiência na indústria automóvel. A sua paixão por carros desde pequeno fez com que ele aprendesse bastante e se tornasse um dos membros mais importantes da empresa.
+Tiago Silvestre é um entusiasta com uma vasta experiência na indústria automóvel. A sua paixão por carros desde pequeno fez com que ele aprendesse bastante e se tornasse um dos membros mais importantes da empresa.
 
 ### Diogo Rito
 
@@ -34,7 +34,7 @@ Siga-nos nas redes sociais para ficar atualizado sobre as últimas novidades e d
 - [Instagram]
 - [Twitter]
 
-## ArealAuto - Sua Oficina de Confiança
+## ArealAuto - A sua Oficina de Confiança
 
 ![ArealAuto](https://lh5.googleusercontent.com/p/AF1QipOAcJvJKg6gbNai5nklssS0noEV1d_qW1ugQhku=w650-h486-k-no)
 
