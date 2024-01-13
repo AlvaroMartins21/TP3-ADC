@@ -43,7 +43,6 @@ Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disp
 
 ## Como Comprar
 
-Para adquirir um desses incríveis veículos, entre em contato conosco pelo telefone (+351) 926097677 ou visite nossa concessionária mais próxima.
+Para adquirir um destes incríveis veículos, entre em contato connosco pelo telefone (+351) 926097677 ou visite a nossa concessionária mais próxima.
 
 Esperamos ajudar você a encontrar o veículo dos seus sonhos!
-
