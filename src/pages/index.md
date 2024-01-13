@@ -2,9 +2,9 @@
 
 ## Serviços Oferecidos
 
-- **Manutenção e Reparos:**
-- **Venda de Peças:**
-- **Revisões:**
+- **Manutenção e Reparos**
+- **Venda de Peças**
+- **Revisões**
 - **Estética Automotiva**
 - **Troca de Pneus**
 - **Mudança de Óleo**
