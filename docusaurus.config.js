@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ArealAuto',
   tagline: 'Os seus problemas são a nossa felicidade',
-  favicon: 'favicon.ico',
+  favicon: '/TP3-ADC/static/img/Areal-Auto.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'docusaurus.png',
+      image: '/TP3-ADC/static/img/Areal Auto.jpg',
       navbar: {
         title: 'Home',
         logo: {
           alt: 'My Site Logo',
-          src: 'docusaurus.png',
+          src: '/TP3-ADC/static/img/Areal Auto.jpg',
         },
         items: [
           {
