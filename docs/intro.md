@@ -2,21 +2,22 @@
 sidebar_position: 1
 ---
 
-# Catálogo de Peças
+# Peças
 
-Bem-vindo à nossa loja de peças automotivas! Aqui você encontrará uma variedade de peças para manutenção e reparo de veículos.
+Bem-vindo à nossa loja de peças! Aqui você encontrará uma variedade de peças para manutenção e reparo dos veículos.
 
 ## Peças Disponíveis
 
 ### Motor
 
 - **Filtro de Óleo:** Filtro de óleo de alta qualidade para diversos modelos de veículos.
-- **Correias Dentadas:** Correias dentadas resistente e durável para diferentes motores.
-- **Velas de Ignição:** Conjunto de velas de ignição para melhor desempenho do motor.
+- **Correias Dentadas:** Correias dentadas resistentes e duradouras para diferentes motores.
+- **Velas de Ignição:** Conjunto de velas de ignição para um melhor desempenho do motor.
+![](https://st.depositphotos.com/1268919/2505/i/950/depositphotos_25059933-stock-photo-car-engine.jpg)
 
 ### Travões
 
-- **Pastilhas de Travão:** Pastilhas resistentes para reposição em sistemas de travagem a disco.
+- **Pastilhas dos Travão:** Pastilhas resistentes para os sistemas de travagem a disco.
 - **Disco de Travão:** Discos de travão ventilados para garantir uma travagem eficaz e segura.
 
 ### Suspensão
@@ -34,8 +35,8 @@ Bem-vindo à nossa loja de peças automotivas! Aqui você encontrará uma varied
 ### Fluídos
 
 - **Óleo Motor:** Variadissimos tipos de óleos para manter o motor do seu carro sempre lubrificado.
-- **Anti-Congelante:** Liquido de refrigeração, para garantir o sobre-aquecimento do seu veículo.
-- **Óleo de Travões:** Óleo de travões de diferentes tipos para manter o sistema de travagem em condições ideais.
+- **Anti-Congelante:** Liquido de refrigeração, para garantir que o seu veículo não exceda os limites de temperatura.
+- **Óleo de Travões:** Óleo para os travões de diferentes tipos para manter o sistema de travagem em condições ideais.
 
 ### Pneus
 
