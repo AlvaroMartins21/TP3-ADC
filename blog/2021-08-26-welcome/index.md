@@ -1,6 +1,4 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: Quem somos?
+title: Quem somos?
 ---
