@@ -83,16 +83,16 @@ const config = {
 
             
           { to: '/veiculos', label: 'Veículos', position: 'left'},
-          {href: 'https://alvaromartins21.github.io/TP3-ADC/veiculos/',
-            label: 'GitHub',
+          {href: 'https://github.com/AlvaroMartins21/TP3-ADC.git',
+            label: 'ArealAuto',
             position: 'right',
           },
 
 
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.google.com/intl/pt-PT/gmail/about/',
+            label: 'Ajuda',
             position: 'right',
           },
         ],
