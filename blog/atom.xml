@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/TP3-ADC/blog"/>
     <subtitle>ArealAuto Blog</subtitle>
-    <icon>https://github.com/TP3-ADC/static/img/Areal-Auto.ico</icon>
+    <icon>https://github.com/TP3-ADC/img/Areal-Auto.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bem-vindo ao Blog da oficina ArealAuto]]></title>
         <id>https://github.com/TP3-ADC/blog/2021/08/26/welcome</id>
