@@ -21,9 +21,9 @@ Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disp
 
 ---
 
-## Camionete
+## Carrinha
 
-![Camionete](https://cdn.autopapo.com.br/box/uploads/2020/08/17162933/ram-1500-trx-launch-edition-cinza-de-frente.jpg)
+![Carrinha](https://cdn.autopapo.com.br/box/uploads/2020/08/17162933/ram-1500-trx-launch-edition-cinza-de-frente.jpg)
 
 - **Modelo:** RAM
 - **Marca:** Dodge
@@ -37,7 +37,7 @@ Bem-vindo ao nosso catálogo de veículos. Abaixo estão alguns dos modelos disp
 
 - **Modelo:** Desportivo
 - **Marca:** Corvette
-- **Preço:** 150.000,00€
+- **Preço:** 150.000€
 
 ---
 
