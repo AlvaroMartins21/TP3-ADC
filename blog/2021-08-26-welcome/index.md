@@ -18,17 +18,6 @@ Diogo Rito, o co-fundador da ArealAuto, é um especialista em mecânica automóv
 
 Álvaro Martins, o terceiro membro fundador da ArealAuto, é apaixonado por inovação e tecnologia automotiva. Ele está sempre buscando as últimas tendências tecnologias para garantir que oferecemos os melhores serviços aos nossos clientes.
 
-## Nossos Serviços
-
-Na ArealAuto, oferecemos uma ampla gama de serviços, incluindo:
-
-- Manutenção preventiva
-- Reparação de motores
-- Serviços de freios
-- Troca de óleo
-- Diagnóstico eletrônico
-- Personalização de veículos
-
 ## Entre em Contato
 
 Estamos aqui para atender às suas necessidades automotivas. Entre em contato conosco para agendar uma consulta ou para saber mais sobre como podemos ajudar a manter o seu veículo em excelente estado.
@@ -45,5 +34,8 @@ Siga-nos nas redes sociais para ficar atualizado sobre as últimas novidades e d
 - [Instagram]
 - [Twitter]
 
-Agradecemos por escolher a ArealAuto para suas necessidades. Esperamos vê-lo em breve!
+## ArealAuto - Sua Oficina de Confiança
 
+![ArealAuto](/ArealAuto.jpg)
+
+Agradecemos por escolher a ArealAuto para suas necessidades automotivas. Esperamos vê-lo em breve!
