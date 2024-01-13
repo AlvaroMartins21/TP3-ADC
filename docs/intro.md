@@ -14,7 +14,7 @@ Bem-vindo à nossa loja de peças! Aqui você encontrará uma variedade de peça
 - **Correias Dentadas:** Correias dentadas resistentes e duradouras para diferentes motores.
 - **Velas de Ignição:** Conjunto de velas de ignição para um melhor desempenho do motor.
 
-![](https://st.depositphotos.com/1268919/2505/i/950/depositphotos_25059933-stock-photo-car-engine.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR701pnoWq2-E0fSFNU35FoOwZ4OuBNnWu7Hg&usqp=CAU)
 
 ### Travões
 
