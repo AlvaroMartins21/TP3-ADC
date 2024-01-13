@@ -67,8 +67,13 @@ const config = {
       navbar: {
         title: 'Home',
         logo: {
+<<<<<<< HEAD
           alt: 'My Site Logo',
           src: '/TP3-ADC/static/img/Areal Auto.jpg',
+=======
+          alt: '',
+          src: 'static/img/Areal-Auto.ico',
+>>>>>>> f33dd948ba1154e07f58afeb2df9023a85c131ce
         },
         items: [
           {
