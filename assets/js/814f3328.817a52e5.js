@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/TP3-ADC/blog/welcome"},{"title":"MDX Blog Post","permalink":"/TP3-ADC/blog/mdx-blog-post"},{"title":"Long Blog Post","permalink":"/TP3-ADC/blog/long-blog-post"}]}')}}]);
