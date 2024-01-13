@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'Home',
         logo: {
-          alt: 'static/img/Areal-Auto.ico',
+          alt: '',
           src: 'static/img/Areal-Auto.ico',
         },
         items: [
